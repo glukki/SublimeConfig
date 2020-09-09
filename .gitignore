@@ -1,0 +1,20 @@
+ColorPicker
+Color Highlighter
+
+*.last-run
+Character Table/*
+
+bh_unicode_properties.cache
+FileHistory_*
+oscrypto-ca-bundle.crt
+Package Control.cache
+Package Control.merged-ca-bundle
+Package Control.system-ca-bundle
+Package Control.user-ca-bundle
+SublimeConfig.sublime-workspace
+
+FileHistory.json
+Gist.sublime-settings
+SublimeGit.sublime-settings
+SublimeGit.sublime-license
+/Projects/library.json
